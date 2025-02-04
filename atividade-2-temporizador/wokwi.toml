@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/atividade-2-temporizador.uf2'
+elf = 'build/atividade-2-temporizador.elf'
