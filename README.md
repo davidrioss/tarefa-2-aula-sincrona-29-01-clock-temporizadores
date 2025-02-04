@@ -49,7 +49,7 @@ Este projeto implementa um sistema de temporização controlado por um botão. Q
 ## Como Executar os Projetos
 
 ### 1. Requisitos
-- Placa **Raspberry Pi Pico**
+- Placa **Raspberry Pi Pico W**
 - SDK do Raspberry Pi Pico configurado
 - **Visual Studio Code** com a extensão do **Raspberry Pi Pico** instalada
 - **Extensão Wokwi para VS Code**
